@@ -1,0 +1,33 @@
+img{
+    width:12% ;
+    object-fit: contain;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    box-shadow:1px 5px 5px #e0dcdc ;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    display: flex;
+    justify-items: self-end;
+    list-style: none;
+    padding: 1px 25px;
+    
+}
+ 
+a {
+    text-decoration: none;
+    color: black;
+    font: 18px;
+}
+
+.route{
+    display: flex;
+    justify-content: space-around;
+}

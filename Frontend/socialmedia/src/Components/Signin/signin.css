@@ -1,0 +1,45 @@
+.signin{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuH9sAbeXxSce2ItMpBE7wxYv8zkhvga4inQ&usqp=CAU") ;   
+    background-size: cover;   
+    height: 100vh;  
+    width: 100vw;  
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.form {
+background-color:#fff;
+padding:40px;
+border: 1px ;
+border-radius: 8px;
+}
+
+input {
+    width:90%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ 
+.form > div {
+
+margin: auto;
+}
+
+#submit-btn{
+    background-color: #1773ea;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    width: 90%;
+    margin-top: 8px;
+}
+
+
+.form2{
+    background-color: #fff;
+    padding: 30px;
+    margin-top: 8px;
+    border-radius: 8px;
+}
